@@ -62,13 +62,21 @@ The addition of an integral term to the controller ( ) tends to help reduce stea
 
 ## Output: 
 ### Without Controller (Open loop System)
+<img width="374" height="282" alt="image" src="https://github.com/user-attachments/assets/71aa9805-4e47-4fab-8a7a-2097c91961cf" />
+
 
 
 ### With P-Controller
+<img width="324" height="273" alt="image" src="https://github.com/user-attachments/assets/d29d8d58-85e7-4094-a09a-29112f11e9ba" />
+
 
 ### With PI Controller
+<img width="339" height="239" alt="image" src="https://github.com/user-attachments/assets/6b0a4071-def8-4d06-b77b-75119979b6c0" />
+
 
 ### With PID Controller
+<img width="314" height="242" alt="image" src="https://github.com/user-attachments/assets/6ef03d34-b980-4fdb-9731-eb437d06bfa8" />
+
 
 
 ## Result:
