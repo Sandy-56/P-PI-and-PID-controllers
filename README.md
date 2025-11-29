@@ -110,29 +110,57 @@ title('Pid-CONTROLLER')
 ### With PID Controller
 <img width="314" height="242" alt="image" src="https://github.com/user-attachments/assets/6ef03d34-b980-4fdb-9731-eb437d06bfa8" />
 ### With-out controller 
-Delay time = 0.458
-Rise time = 0.999
-Peak time = 1.56
-Settling time = 1.96
-Steady State Error = 0
-### With P Controller 
-Delay time = 0.0887
-Rise time = 0.16
-Peak time = 0.19
-Settling time = 1.1
-Steady State Error = 0.1
-### With PI Controller 
-Delay time = 0.303
-Rise time = 0.649
-Peak time = 0.82
-Settling time = 1.87
-Steady State Error = 0.87
-### With PID Controller 
-Delay time = 0.0243
-Rise time = 0.0615
-Peak time = 1.04
-Settling time = 0.882
-Steady State Error = 0.018
+
+
+Delay time = 0.458  <br>
+
+Rise time = 0.999  <br>
+
+Peak time = 1.56  <br>
+
+Settling time = 1.96  <br>
+
+Steady State Error = 0  <br>
+
+### With P Controller  <br>
+
+Delay time = 0.0887 <br>
+
+Rise time = 0.16 <br>
+
+Peak time = 0.19 <br>
+
+Settling time = 1.1 <br>
+
+Steady State Error = 0.1 <br>
+
+### With PI Controller  <br>
+
+Delay time = 0.303 <br>
+
+
+Rise time = 0.649 <br>
+
+ Peak time = 0.82 <br>
+
+Settling time = 1.87 <br>
+
+Steady State Error = 0.87 <br>
+
+
+### With PID Controller  <br>
+
+Delay time = 0.0243 <br>
+
+Rise time = 0.0615 <br>
+
+Peak time = 1.04 <br>
+
+Settling time = 0.882 <br>
+
+Steady State Error = 0.018 <br>
+
+
 
 
 
