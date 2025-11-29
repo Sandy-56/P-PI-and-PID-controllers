@@ -109,7 +109,7 @@ title('Pid-CONTROLLER')
 
 ### With PID Controller
 <img width="314" height="242" alt="image" src="https://github.com/user-attachments/assets/6ef03d34-b980-4fdb-9731-eb437d06bfa8" />
-### With-out controller 
+### With-out controller  <br>
 
 
 Delay time = 0.458  <br>
